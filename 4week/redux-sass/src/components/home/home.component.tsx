@@ -5,7 +5,7 @@ export class HomeComponent extends React.Component {
   public render() {
     return (
       <div>
-         This is my home component
+         This is my home component!!!!!!!!!!!!!
       </div>
     );
   }
